@@ -1,0 +1,54 @@
+header {
+	background-color: #282631;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	font-size: 15px;
+	font-family: arial;
+	padding: 9px;
+}
+
+li {
+	text-decoration: none;
+	display: inline-block;
+}
+
+ul {
+	padding-top: 75px;
+	margin: 0px 0px 0px 95px;
+
+}
+
+.blue{
+	font-size: 16px;
+	
+}
+
+span a{
+	color: #369;
+    text-decoration: none;
+}
+
+h2 {
+	padding: 10px;
+}
+
+img {
+	max-width: 100%;
+}
+
+h4 {
+	color: #369;
+	text-align: center;
+}
+
+section {
+	background-color:#DBDEDE;
+}
+
+h6 {
+	color: #369;
+	text-align: center;
+}
