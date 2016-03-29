@@ -17,7 +17,7 @@ li {
 
 ul {
 	padding-top: 75px;
-	margin: 0px 0px 0px 95px;
+	margin: 0px 0px 0px 94px;
 
 }
 
@@ -33,6 +33,7 @@ span a{
 
 h2 {
 	padding: 10px;
+	font-family: arial;
 }
 
 img {
@@ -51,4 +52,21 @@ section {
 h6 {
 	color: #369;
 	text-align: center;
+}
+
+.movie {
+	padding: 40px 0px 0px 30px;
+}
+
+.menu img {
+	width: 12px;
+	height: 12px;
+}
+
+.menu a {
+	color: #369;
+    text-decoration: none;
+}
+
+.list {
 }
